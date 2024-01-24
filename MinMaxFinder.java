@@ -11,7 +11,7 @@ public class MinMaxFinder {
         numbercount = input.nextInt();
 
         for (int i = 1; i <= numbercount; i++) {
-            System.out.print( "Please enter" + i + ". number");
+            System.out.print( "Please enter" + i + ". number : ");
             number = input.nextInt();
 
             if (i == 1) {
